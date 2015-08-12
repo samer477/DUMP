@@ -9,6 +9,7 @@ while 1!=2:
             P=raw_input("Mercure : 1\nVenus : 2\nTerre : 3\nMars : 4\nJupiter : 5\nSaturne : 6\nUranis : 7\nNeptune : 8\nPluton : 9\nreturn : r\n... ")
             if P == "r" or P == "R":
                 break
+                #Test
             elif P == "1" :
                 print"_Masse comparé à la Terre : 0.056"
                 print"_Diamétre à l'équateur (km): 4860"
